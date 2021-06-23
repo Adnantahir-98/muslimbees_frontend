@@ -1,0 +1,25 @@
+
+body{
+    overflow-x: hidden;
+}
+.bee_img{
+    
+    margin-top: 250px;
+}
+.login_form{
+    margin-top: 225px;
+}
+.login_input{
+    background: transparent;
+
+}
+.login_input:focus{
+    background: transparent;
+
+}
+
+.txt_clr{
+    color: #0d494e;
+}
+
+
